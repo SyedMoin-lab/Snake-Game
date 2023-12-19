@@ -31,8 +31,7 @@ For a live demo, you can visit [Demo Link](https://syedmoin-lab.github.io/Snake-
 
 ## Photo Section
 
-![Screenshot 1](link-to-your-screenshot-1.png)
-![Screenshot 2](link-to-your-screenshot-2.png)
+![Screenshot ](Snake Game.jpg)
 <!-- Add additional screenshots as needed -->
 
 ## Contributing
